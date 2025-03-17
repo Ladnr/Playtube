@@ -18,7 +18,7 @@ Playtube est une application Python permettant de sauvegarder et restaurer des p
 ### Étapes d'installation
 1. Clonez ce dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/playtube.git
+   git clone https://github.com/Ladnr/Playtube.git
    cd playtube
    ```
 
@@ -87,4 +87,4 @@ playtube/
 - **Auteur**: [Ladnr](https://github.com/Ladnr)
 
 ## Licence
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus d'informations.
+Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE.txt) pour plus d'informations.
