@@ -26,7 +26,7 @@ Playtube est une application Python permettant de sauvegarder et restaurer des p
    ```bash
    python -m venv venv
    source venv/bin/activate  # Sur Linux/macOS
-   venv\Scriptsctivate     # Sur Windows
+   venv\Scripts\activate     # Sur Windows
    ```
 
 3. Installez les dépendances :
@@ -84,7 +84,7 @@ playtube/
 ```
 
 ## Auteurs
-- [Votre Nom](https://github.com/votre-utilisateur)
+- **Auteur**: [Ladnr](https://github.com/Ladnr)
 
 ## Licence
 Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus d'informations.
