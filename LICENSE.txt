@@ -1,0 +1,9 @@
+MIT License
+
+Copyright (c) 2025 Ladener Teddy
+
+Par la présente, il est accordé à toute personne obtenant une copie du présent logiciel et des fichiers de documentation associés (le "Logiciel"), de traiter le Logiciel sans restriction, y compris sans limitation les droits d'utiliser, copier, modifier, fusionner, publier, distribuer, sous-licencier et/ou vendre des copies du Logiciel, et d'autoriser les personnes auxquelles le Logiciel est fourni à le faire, sous réserve des conditions suivantes :
+
+La mention du copyright ci-dessus et cette permission doivent être incluses dans toutes les copies ou parties substantielles du Logiciel.
+
+LE LOGICIEL EST FOURNI "TEL QUEL", SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IMPLICITE, Y COMPRIS MAIS SANS S'Y LIMITER À LA GARANTIE DE QUALITÉ MARCHANDE, D'ADAPTATION À UN BUT PARTICULIER ET DE NON-VIOLATION. EN AUCUN CAS L'AUTEUR OU LES TITULAIRES DU COPYRIGHT NE PEUVENT ÊTRE TENUS RESPONSABLES DE TOUTE RÉCLAMATION, DOMMAGES OU AUTRES RESPONSABILITÉS, QUE CE SOIT DANS UNE ACTION CONTRACTUELLE, DELICTUELLE OU AUTRE, DÉCOULANT DE, OU EN LIEN AVEC LE LOGICIEL OU L'UTILISATION OU D'AUTRES TRAITEMENTS DANS LE LOGICIEL.

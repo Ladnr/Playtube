@@ -1,0 +1,10 @@
+# Fichiers sensibles
+client_secret.json
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environnement virtuel (si tu en utilises un)
+venv/
